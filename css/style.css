@@ -108,11 +108,14 @@ header{
   flex-direction: column;
   background-color: red;
   height: 10vh;
+  width: 40%;
 }
 
 .third-img{
   display: flex;
+  flex-direction: column;
   order: 2;
   background-color: blue;
   height: 10vh;
+  width: 40%;
 }
